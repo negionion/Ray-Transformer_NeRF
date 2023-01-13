@@ -1,7 +1,5 @@
 # 3D Scene Reconstruction with Novel View Synthesis from Single Image Based on Ray-Transformer Neural Radiance Fields
 
-
-## Ray-Transformer NeRF: 3D Scene Reconstruction with Novel View Synthesis from Single Image Based on Ray-Transformer Neural Radiance Fields
 Tsung-Min Yu <br>
 National Taiwan University of Science and Technology (NTUST)
 
