@@ -156,7 +156,7 @@ Training code is in `train/` directory, specifically `train/train.py`.
 
 - Example for training to DTU: `python train/train.py -n DTU_MVS_exp -c conf/exp/dtu_BNv2+ResXt+RTLN1.conf -D <path>/rs_dtu_4 -V 1 --gpu_id=0 --resume --epochs 1000 -B 4`
 
-- Example for training to ShapeNet_All: `train/train.py -n ShapeNet_All_exp -c conf/exp/sn64_all_BNv2+ResXt+RTLN1.conf -D <path>/NMR_Dataset --gpu_id=0 --resume -V 1 --no_bbox_step 400000 --epochs 1000 -B 8`
+- Example for training to ShapeNet_All: `python train/train.py -n ShapeNet_All_exp -c conf/exp/sn64_all_BNv2+ResXt+RTLN1.conf -D <path>/NMR_Dataset --gpu_id=0 --resume -V 1 --no_bbox_step 400000 --epochs 1000 -B 8`
 
 - Example for training to ShapeNet_Unseen: `python train/train.py -n ShapeNet_Unseen_exp -c conf/exp/sn64_unseen_BNv2+ResXt+RTLN1.conf -D <path>/NMR_Dataset --gpu_id=0 --resume -V 1 --no_bbox_step 400000 --epochs 1000 -B 8`
 
