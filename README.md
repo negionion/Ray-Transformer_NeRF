@@ -71,7 +71,7 @@ Please refer the the following table for a list of provided experiments with ass
 
 | Name                       | expname -n      | config -c (automatic from expconf.conf)   | Data file                               | data dir -D       |
 |----------------------------|-----------------|-------------------------------------------|-----------------------------------------|-------------------|
-| ShapeNet category-agnostic | ShapeNet_All    | conf/exp/sn64_all_BNv2+ResXt+RTLN1.conf                 | NMR_Dataset.zip (from AWS)              | path/NMR_Dataset  |
+| ShapeNet all category | ShapeNet_All    | conf/exp/sn64_all_BNv2+ResXt+RTLN1.conf                 | NMR_Dataset.zip (from AWS)              | path/NMR_Dataset  |
 | ShapeNet unseen category   | ShapeNet_Unseen | conf/exp/sn64_unseen_BNv2+ResXt+RTLN1.conf          | NMR_Dataset.zip (from AWS) + genlist.py | path/NMR_Dataset  |
 | DTU                        | DTU_MVS             | conf/exp/dtu_BNv2+ResXt+RTLN1.conf                  | dtu_dataset.zip                         | path/rs_dtu_4     |
 
