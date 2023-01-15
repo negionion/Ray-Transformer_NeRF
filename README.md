@@ -4,7 +4,7 @@ Tsung-Min Yu <br>
 National Taiwan University of Science and Technology (NTUST)
 
 
-This is the official repository for our paper: Ray-Transformer NeRF.<br>
+This is the official repository for our paper: [Ray-Transformer NeRF](https://etheses.lib.ntust.edu.tw/cgi-bin/gs32/gsweb.cgi?o=dstdcdr&s=id=%22G0M11015032%22.&searchmode=basic). <><br>
 This repository based on pixelNeRF.
 <https://github.com/sxyu/pixel-nerf>
 
