@@ -39,7 +39,7 @@ https://drive.google.com/drive/folders/1PsT3uKwqHHD2bEEHkIXB99AlIjtmrEiR?usp=sha
 
 Data adapters are built into the code.
 
-# Running the model (video generation)
+# Running the model
 
 The main implementation is in the `src/` directory,
 while evalutation scripts are in `eval/`.
