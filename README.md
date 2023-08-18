@@ -118,7 +118,7 @@ To do so run the `eval/calc_metrics.py`, as in the following examples
 
 - All category `python eval/calc_metrics.py -D <path>/NMR_Dataset -O eval_out/ShapeNet_All -F dvr --list_name 'softras_test' --multicat --gpu_id=0`
 
-- Unseen category `python eval/calc_metrics.py -D <path>/NMR_Dataset -O eval_out/ShapeNet_Unseen -F dvr --list_name 'softras_test' --multicat --gpu_id=0 `
+- Unseen category `python eval/calc_metrics.py -D <path>/NMR_Dataset -O eval_out/ShapeNet_Unseen -F dvr --list_name 'gen_test' --multicat --gpu_id=0 `
 
 
 ### DTU
